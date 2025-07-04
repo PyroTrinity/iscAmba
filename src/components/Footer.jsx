@@ -15,7 +15,7 @@ export default function Footer() {
           </div>  
           <h2 className="text-black-600 font-bold text-xl">NoMax</h2>
           <p className="py-4 text-black text-poppins">
-            Our job is to filling your tummy with <br /> delicious food and{" "}
+            Our job is to filling your tummy with <br /> delicious food manuk{" "}
             with fast and <br /> free delivery.
           </p>
           <div className="icon py-10">
