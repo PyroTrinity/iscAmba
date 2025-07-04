@@ -1,11 +1,11 @@
 import Login from "../components/Login";
-import Nav from "../components/Nav";
+import Header from "../components/Header";
 import Services from "../components/Services";
 
 export default function Main() {
   return (
       <>
-      <Nav/>
+      <Header/>
       <Login/>
       <Services/>
       </>

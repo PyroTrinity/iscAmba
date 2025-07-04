@@ -4,7 +4,7 @@ import './App.css'
 import HomePage from './pages/HomePage'
 import Menu from './pages/Menu'
 import Login from './pages/Login'
-import Nav from './components/Nav'
+import Header from './components/Header'
 
 function App() {
 
@@ -16,7 +16,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/Menu" element={<Menu />} />
           <Route path="/Login" element={<Login />} />
-          <Route path="/Nav" element={<Nav />} />
+          <Route path="/Header" element={<Header />} />
         </Routes>
       </BrowserRouter>
     </>
