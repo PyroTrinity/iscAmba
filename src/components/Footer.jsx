@@ -152,7 +152,7 @@ export default function Footer() {
           isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
         }`}>
           <p className="text-gray-400 text-sm">
-            © 2025 NOMAX - NONTONMAX. All rights reserved. Made with ❤️ for movie lovers.
+            © 2025 NOMAX - NONTONMAX. All rights reserved. Made By Muhammad Akhtar & Muhammad Syauqi
           </p>
         </div>
       </div>
