@@ -13,7 +13,7 @@ export default function Footer() {
               D O
             </p>
           </div>  
-          <h2 className="text-black-600 font-bold text-xl">Foodeli</h2>
+          <h2 className="text-black-600 font-bold text-xl">NoMax</h2>
           <p className="py-4 text-black text-poppins">
             Our job is to filling your tummy with <br /> delicious food and{" "}
             with fast and <br /> free delivery.
