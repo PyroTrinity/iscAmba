@@ -1,6 +1,5 @@
 import Login from "../components/Login";
 import Header from "../components/Header";
-import Services from "../components/Services";
 import Footer from "../components/Footer";
 
 export default function LoginPage() {
@@ -8,7 +7,6 @@ export default function LoginPage() {
       <>
       <Header/>
       <Login/>
-      <Services/>
       <Footer/>
       </>
   )
