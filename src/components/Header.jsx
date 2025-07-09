@@ -29,7 +29,7 @@ function Header() {
             <div className="relative flex flex-col items-center text-center">
               <span className="block self-center text-2xl font-extrabold whitespace-nowrap text-[#569EBD] dark:text-[#569EBD] transition-all duration-300 group-hover:scale-105 group-hover:text-cyan-400">
                 <span className="relative inline-block">
-                  NOMAX
+                  NOMAX!
                   <div className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-[#569EBD] to-cyan-400 transition-all duration-300 group-hover:w-full"></div>
                 </span>
               </span>
